@@ -88,6 +88,7 @@ body, html {
     font-size: 22px;
     color: var(--lightgray-color);
     cursor: pointer;
+    padding: 7px 0;
 }
 .login__form__container {
     margin-top: 25px;
