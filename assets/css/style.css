@@ -69,6 +69,12 @@ body, html {
     font-weight: 500;
     padding: .375rem 2.9rem;
 }
+.input__class .form-control:focus {
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: 0 0 4px 0 #a8d0ff;
+    font-weight: 500;
+}
 .input__class .form-control::placeholder {
     color: var(--darkgray-color);
 }
